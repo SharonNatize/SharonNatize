@@ -8,9 +8,9 @@
 
 -📚🔎 Me gusta leer textos de thriller psicologico y misterio, cuyos finales realmente son inesperados, también ver series relacionados con viajes espaciales o de espacio-tiempo.
 
--🐶🐱 A parte de lo académico me gusta ayudar a los animalitos que se encuentran en la calle.
+-🐶🐱 A parte de lo académico, me gusta ayudar a los animalitos que se encuentran en la calle.
 
--📈🔎Puedes ver el avance de mis proyectos aqui : [Proyectos](https://github.com/SharonNatize)
+-📈🔎Puedes ver el avance de mis proyectos aqui : [Repositories](https://github.com/SharonNatize)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
