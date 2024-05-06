@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Sharon Natividad</h1>
 <h3 align="center">Mathematics & Engineering</h3>
 <h4 align="center">Lima, Perú</h4>
--💻 Estoy estudiando Data Scientist en el Bootcamp de TripleTen, me gusta aprender por ello me inscribi a la oportunidad de aprender una parte del mundo de programacion y analisis de datos.
+
+-💻 Estoy estudiando Data Scientist en el Bootcamp de TripleTen, me gusta aprender por ello me inscribí a la oportunidad de aprender una parte del mundo de programación y analisis de datos.
 
 -📜 Licenciada en Matemática en el área de Ecuaciones Diferenciales Parciales, lo aprendido me ayuda en mi curso actual antes mencionado, ádemas de haberme brindado otras habilidades que aplico en mi carrera de Ingenieria Industrial, en el cual me encuentro en el 8vo ciclo.
 
--📚🔎 Me gusta leer textos de thriller psicologico y misterio, cuyos finales realmente son inesperados, también ver series realacionados con viajes espaciales o de espacio-tiempo.
+-📚🔎 Me gusta leer textos de thriller psicologico y misterio, cuyos finales realmente son inesperados, también ver series relacionados con viajes espaciales o de espacio-tiempo.
 
 -🐶🐱 A parte de lo académico me gusta ayudar a los animalitos que se encuentran en la calle.
 
