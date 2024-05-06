@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sharon Natividad</h1>
+<h1 align="center">Hi 👋, I'm Sharon Natividad Zevallos</h1>
 <h3 align="center">Mathematics & Engineering</h3>
 <h4 align="center">Lima, Perú</h4>
 
