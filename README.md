@@ -9,7 +9,7 @@
 
 -🐶🐱 A parte de lo académico me gusta ayudar a los animalitos que se encuentran en la calle.
 
--📈🔎Puedes ver el avance de mis proyectos aqui : [(https://github.com/SharonNatize)](https://github.com/SharonNatize)
+-📈🔎Puedes ver el avance de mis proyectos aqui : [(Proyectos)](https://github.com/SharonNatize)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
