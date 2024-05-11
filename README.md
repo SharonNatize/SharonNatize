@@ -2,6 +2,8 @@
 <h3 align="center">Mathematics & Engineering</h3>
 <h4 align="center">Lima, Perú</h4>
 
+📍 **About me:**
+
 -💻 Estoy estudiando Data Scientist en el Bootcamp de TripleTen, me gusta aprender por ello me inscribí a la oportunidad de aprender una parte del mundo de programación y analisis de datos.
 
 -📜 Licenciada en Matemática en el área de Ecuaciones Diferenciales Parciales, lo aprendido me ayuda en mi curso actual antes mencionado, ádemas de haberme brindado otras habilidades que aplico en mi carrera de Ingenieria Industrial, en el cual me encuentro en el 8vo ciclo.
