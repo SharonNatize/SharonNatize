@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F73B9B&random=false&width=435&lines=About+me:)](https://git.io/typing-svg)
 
--💻 Estoy estudiando Data Scientist en el Bootcamp de TripleTen, me gusta aprender por ello me inscribí a la oportunidad de aprender una parte del mundo de programación y analisis de datos.
+-💻 Actualmente estudio Data Scientist en el Bootcamp de TripleTen, me gusta aprender por ello me inscribí a la oportunidad de aprender una parte del mundo de programación y análisis de datos.
 
 -📜 Licenciada en Matemática en el área de Ecuaciones Diferenciales Parciales, lo aprendido me ayuda en mi curso actual antes mencionado, ádemas de haberme brindado otras habilidades que aplico en mi carrera de Ingenieria Industrial, en el cual me encuentro en el 8vo ciclo.
 
