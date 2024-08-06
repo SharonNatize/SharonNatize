@@ -1,12 +1,12 @@
-<h1 align="center">Hi 👋, I'm Sharon Natividad Zevallos</h1>
+<h1 align="center">Hola 👋, soy Sharon Natividad Zevallos</h1>
 <h3 align="center">Mathematics & Engineering</h3>
 <h4 align="center">Lima, Perú</h4>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F73B9B&random=false&width=435&lines=About+me:)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F73B9B&random=false&width=435&lines=Sobre+mi:)](https://git.io/typing-svg)
 
--💻 Me gusta aprender, por ello realice estudios de  Data Scientist con la oportunidad de conocer una parte del mundo de programación y análisis de datos.
+-💻 Me gusta aprender, por ello realice estudios de  Data Scientist con la oportunidad de conocer parte del mundo de programación y análisis de datos.
 
--📜 Licenciada en Matemática en el área de Ecuaciones Diferenciales Parciales, lo aprendido me ayuda en mi curso actual antes mencionado, ádemas de haberme brindado otras habilidades que aplico en mi carrera de Ingenieria Industrial, en el cual me encuentro en el 8vo ciclo.
+-📜 Licenciada en Matemática en el área de Ecuaciones Diferenciales Parciales, lo aprendido me ayuda en mi curso actual antes mencionado, ádemas de haberme brindado otras habilidades que aplico en mi carrera de Ingenieria Industrial, en el cual me encuentro en el 9no ciclo.
 
 -📚🔎 Me gusta leer textos de thriller psicologico y misterio, cuyos finales realmente son inesperados, también ver series relacionados con viajes espaciales o de espacio-tiempo.
 
