@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F73B9B&random=false&width=435&lines=Sobre+mi:)](https://git.io/typing-svg)
 
--💻 Me gusta aprender, por ello realice estudios de  Data Scientist con la oportunidad de conocer parte del mundo de programación y análisis de datos.
+-💻 Me gusta aprender, por ello realicé estudios de  Data Scientist con la oportunidad de conocer parte del mundo de programación y análisis de datos.
 
 -📜 Licenciada en Matemática en el área de Ecuaciones Diferenciales Parciales, lo aprendido me ayuda en mi curso actual antes mencionado, ádemas de haberme brindado otras habilidades que aplico en mi carrera de Ingenieria Industrial, en el cual me encuentro en el 9no ciclo.
 
