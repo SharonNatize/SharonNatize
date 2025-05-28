@@ -6,7 +6,7 @@
 
 -💻 Me gusta aprender, por ello realicé estudios de  Data Scientist con la oportunidad de conocer parte del mundo de programación y análisis de datos.
 
--📜 Licenciada en Matemática en el área de Ecuaciones Diferenciales Parciales, lo aprendido me ayuda en mi curso actual antes mencionado, ádemas de haberme brindado otras habilidades que aplico en mi carrera de Ingenieria Industrial, en el cual me encuentro en el 9no ciclo.
+-📜 Licenciada en Matemática en el área de Ecuaciones Diferenciales Parciales, lo aprendido me ayuda en mi curso actual antes mencionado, ádemas de haberme brindado otras habilidades que aplico en mi carrera de Ingenieria Industrial, en el cual me encuentro en el 10mo ciclo.
 
 -📚🔎 Me gusta leer textos de thriller psicologico y misterio, cuyos finales realmente son inesperados, también ver series relacionados con viajes espaciales o de espacio-tiempo.
 
